@@ -1,4 +1,4 @@
-# Gmail Labeler Script
+# Inbox Hero Script
 
 ## Description
 This Google Apps Script automatically labels emails in your Gmail inbox based on certain keywords and sender criteria.
